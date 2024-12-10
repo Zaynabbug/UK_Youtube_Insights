@@ -91,16 +91,16 @@ This project analyzes YouTube data from UK-based YouTubers to help the marketing
 ## Power BI Dashboards  
 
 ### Overview Dashboard  
-![Dashboard Screenshot](visualizations/overview.png)  
+![Dashboard Screenshot](Visualizations/overview.png)  
 
 ### Product Placement Campaign  
-![Dashboard Screenshot](visualizations/Product_Placement_Campaign.png)  
+![Dashboard Screenshot](Visualizations/Product_Placement_Campaign.png)  
 
 ### Video Series Sponsorship  
-![Dashboard Screenshot](visualizations/Video_Series_Sponsorship.png)  
+![Dashboard Screenshot](Visualizations/Video_Series_Sponsorship.png)  
 
 ### Audience Reach Maximization  
-![Dashboard Screenshot](visualizations/Audience_Reach_Maximization.png)  
+![Dashboard Screenshot](Visualizations/Audience_Reach_Maximization.png)  
 
 ---  
 
